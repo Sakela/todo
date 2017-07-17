@@ -1,4 +1,4 @@
-/*global Backbone */
+    /*global Backbone */
 var app = app || {};
 
 (function () {
